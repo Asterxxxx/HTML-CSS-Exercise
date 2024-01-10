@@ -11,3 +11,16 @@ body {
     font-family: "Times New Roman", Times, serif;
     font-size: medium;
   }
+
+  a:hover {
+    color: red
+
+  }
+
+  a:visited {
+    color: green;
+  }
+
+  a:active {
+    color: yellow;
+  }
