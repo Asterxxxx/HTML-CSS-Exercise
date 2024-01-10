@@ -13,8 +13,7 @@ body {
   }
 
   a:hover {
-    color: red
-
+    background-color: yellow;
   }
 
   a:visited {
